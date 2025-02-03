@@ -35,7 +35,7 @@ export function DiscoverModal() {
             onClick={() => setOpen(false)}
             className="bg-[#4c84ff] hover:bg-[#3a70e0] text-white font-semibold"
           >
-            <Link href="https://furg.br" className="w-full">
+            <Link href="https://furg.agrifence.com.br" className="w-full">
               Servidor FURG
             </Link>
           </Button>
@@ -44,7 +44,7 @@ export function DiscoverModal() {
             onClick={() => setOpen(false)}
             className="bg-[#4c84ff] hover:bg-[#3a70e0] text-white font-semibold"
           >
-            <Link href="https://vps.example.com" className="w-full">
+            <Link href="https://vps.agrifence.com.br" className="w-full">
               Servidor VPS
             </Link>
           </Button>
