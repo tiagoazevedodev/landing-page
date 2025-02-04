@@ -10,10 +10,10 @@ export default function Footer() {
             <p className="text-sm mt-2">Tecnologia para o agronegócio do futuro</p>
           </div>
           <div className="flex space-x-6">
-            <a href="https://www.instagram.com/agrifencebrasil/" className="hover:text-primary transition duration-300">
+            <a href="https://www.instagram.com/agrifencebrasil/" target="_blank" className="hover:text-primary transition duration-300">
               <Instagram />
             </a>
-            <a href="https://www.linkedin.com/company/agrifence-solutions/" className="hover:text-primary transition duration-300">
+            <a href="https://www.linkedin.com/company/agrifence-solutions/" target="_blank" className="hover:text-primary transition duration-300">
               <Linkedin />
             </a>
           </div>
